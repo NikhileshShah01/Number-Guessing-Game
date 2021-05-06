@@ -1,4 +1,4 @@
-#GUESS THE NUMBER
+#GUESSING THE NUMBER GAME
 import random as rnd
 n=rnd.randint(0,100)
 a=6
